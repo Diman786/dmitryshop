@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dmitryshop/static/css/main.4d4837a0.css",
+    "main.js": "/dmitryshop/static/js/main.a349af97.js",
+    "static/js/453.ed3810f9.chunk.js": "/dmitryshop/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/dmitryshop/index.html",
+    "main.4d4837a0.css.map": "/dmitryshop/static/css/main.4d4837a0.css.map",
+    "main.a349af97.js.map": "/dmitryshop/static/js/main.a349af97.js.map",
+    "453.ed3810f9.chunk.js.map": "/dmitryshop/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d4837a0.css",
+    "static/js/main.a349af97.js"
+  ]
+}
